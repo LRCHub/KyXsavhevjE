@@ -1,0 +1,18 @@
+# Official髭男dism – Amazing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Amazing grace how sweet the sound
+that saved a wretch like me
+I once was lost but now am found
+was blind but now I see
+'Twas grace that taught my heart to fear
+and grace my fears relieved
+how precious did that grace appear
+the hour I first believed
+Amazing grace how sweet the sound
+that saved a wretch like me
+I once was lost but now am found
+was blind but now I see
+```
